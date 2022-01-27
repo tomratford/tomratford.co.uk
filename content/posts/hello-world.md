@@ -15,4 +15,4 @@ Hello world!
 
 This is my personal blog, mainly to be used to document projects I've worked on, or am working on, or failed to work on.
 
-This site uses the most basic theme available. 
+This post itself is actually a placeholder! for when I have an interesting enough project to write about.
