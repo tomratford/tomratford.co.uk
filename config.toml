@@ -12,7 +12,7 @@ paginate = 5
   themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
@@ -70,6 +70,10 @@ paginate = 5
         identifier = "github"
         name = "Github"
         url = "https://github.com/tomratford"
+      [[languages.en.menu.main]]
+        identifier = "linkedin"
+        name = "LinkedIn"
+        url = "https://www.linkedin.com/in/tom-ratford-b14b79195/"
 
 [markup]
   [markup.goldmark]
