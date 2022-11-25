@@ -70,3 +70,8 @@ paginate = 5
         identifier = "github"
         name = "Github"
         url = "https://github.com/tomratford"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
