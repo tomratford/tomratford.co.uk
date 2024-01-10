@@ -1,11 +1,12 @@
----
-title: "Porting SAS formats"
-author: "Tom Ratford"
-date: "2023-01-02"
-output: hugodown::hugo_document
-rmd_hash: 314948b083378332
-
----
++++
+title = "Porting SAS formats"
+author = "Tom Ratford"
+date = "2023-01-02"
+tags = ["R", "SAS"]
+description = "Writing a simple R package to practice TDD, also covers mutable package objects (enviroments) and formatting S3 classes in the RStudio `view` command"
+showFullContent = false
+readingTime = false
++++
 
 As part of my fun winter break activities I decided to write a simple package porting SAS-like formats to help practice my "test driven development" as well as continue to improve my R skills. Whilst creating it I ended up going down two different rabbit holes which I hope to cover in this post. The package can be found and installed from github at [tomratford/SASformatR](https://github.com/tomratford/SASformatR/).
 
