@@ -1,6 +1,6 @@
 +++
 title = "2023 Book Review"
-date = "2023-12-13T12:21:07Z"
+date = "2024-01-10T15:39:07Z"
 author = "Tom Ratford"
 authorTwitter = "" #do not include @
 cover = ""
@@ -246,7 +246,7 @@ However this book is also quite annoying:
  As in - I felt like things were being described as if I were watching them, or reading a screenplay.
  Some may enjoy this but I found it a bit jarring personally.
  - Elizabeth Zott is somewhere between undiagnosed Neurodivergent and annoying pretentious ass and I'm not sure it was truly ever clear to me.
- The Sheldon Cooper esque traits (**SPOILER:** {{< spoiler >}}passed on down to her daughter as well{{< spoiler >}}) of calling water 'Hydrogen Dioxide' and did not land for me and I found myself rolling my eyes a bit at them.
+ The Sheldon Cooper esque traits (**SPOILER:** {{< spoiler >}}passed on down to her daughter as well{{< /spoiler >}}) of calling water 'Hydrogen Dioxide' and did not land for me and I found myself rolling my eyes a bit at them.
 However the book is also quite witty, and I did find myself enjoying the dialogue generally.
 I think some of the wit and humour in the book (genius dog, the show being a literal TV show) are also partially why I felt like it was written for TV.
 
