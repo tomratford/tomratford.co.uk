@@ -2,6 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
+copyright = "2023 Thomas Ratford All right reserved"
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -64,18 +65,33 @@ paginate = 5
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "about"
+        weight = 1
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
         identifier = "github"
+        weight = 1
         name = "Github"
         url = "https://github.com/tomratford"
       [[languages.en.menu.main]]
         identifier = "linkedin"
         name = "LinkedIn"
+        weight = 1
         url = "https://www.linkedin.com/in/tom-ratford-b14b79195/"
+      [[languages.en.menu.main]]
+        identifier = "feed"
+        weight = 2
+        name = "Feed"
+        url = "/index.xml"
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[outputs]
+  home = ["html", "rss"]
+  page = ["html"]
+  section = ["html"]
+  taxonomy = ["html"]
+  term = ["html"]

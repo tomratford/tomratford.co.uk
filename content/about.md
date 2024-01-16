@@ -1,7 +1,7 @@
 ---
 title: "About"
-date: 2022-01-27T21:41:11Z
 draft: false
+type: page
 ---
 
 # Hello!
