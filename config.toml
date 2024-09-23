@@ -37,6 +37,9 @@ copyright = "2023 Thomas Ratford All right reserved"
   # it's set to `true` by default
   # oneHeadingSize = false
 
+  # Activate latex on all pages
+  math = true
+
 [params.twitter]
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
@@ -88,6 +91,12 @@ copyright = "2023 Thomas Ratford All right reserved"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
 
 [outputs]
   home = ["html", "rss"]
