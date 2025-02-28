@@ -81,7 +81,7 @@ I felt a certain guilt whilst reading this book that the reminder had to come in
 I felt like I was avoiding the actual problem and transforming it into a more palettable medium that could be put down and ignored without guild.
 That being said, the book is very emotive, very clear in it's message and desire and effective in it's writing.
 
-Rating: ★★★★
+Rating: ★★★★☆
 
 # The Tattooist of Auschwitz
 
@@ -89,7 +89,7 @@ This is a book that is saved by the story itself rather than the quality of the 
 Unlike _The Beekeeper of Aleppo_ where I felt like the writing, story and narrative all blended together to improve the experience. 
 _The Tattooist of Auschwitz_ instead feels like a interesting story discovered by a mediocre writer.
 
-Rating: ★★★
+Rating: ★★★☆☆
 
 # Wool & Shift
 
@@ -108,7 +108,7 @@ However, there are some really great "story" moments in this book, some really g
 
 I have now finished the series with _Dust_, although this will have to wait for my 2025 book review!
 
-Ratings: ★★★★ & ★★★
+Ratings: ★★★★☆ & ★★★☆☆
 
 # The Buried Giant
 
@@ -119,4 +119,4 @@ I found myself generally confused about the time period he was trying to emulate
 Maybe this is due to a personal flaw regarding my lack of knowledge of post-Roman Britain - but as contrast to the _Three Body Problem_ where I felt like I understood the period more as time went on I do think this is partially due to the writing.
 The message of the book is generally around guilt, memories and dedication; and I felt that this was generally well discussed and explored throughout the book.
 
-Rating: ★★★
+Rating: ★★★☆☆
